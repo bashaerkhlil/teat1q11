@@ -1,0 +1,6 @@
+a1=input('input any sentence')
+a2='iraq'
+if a2 in a1:
+    print('yes')
+else:
+    print('no')
