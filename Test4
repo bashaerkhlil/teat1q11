@@ -1,0 +1,4 @@
+a='computer'
+b='scince'
+c=a+b
+print(c)
