@@ -1,0 +1,7 @@
+a1=input('input any word')
+b=a1.__len__()
+if((a1[0]=='a') and a1[b_1]=='z'):
+    print('ok')
+else:
+    print('not ok')
+    
